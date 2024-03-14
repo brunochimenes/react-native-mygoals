@@ -14,7 +14,7 @@ O projeto foi desenvolvido durante o evento React Native na prática com o objet
 ## ⚙️ Funcionalidades
 
 - [x] Cadastro de meta.
-- [x] Visualização da meta.
+- [x] Detalhes da meta.
   - [x] Cadastro de transação.
   - [x] Listagem das ultimas transações.
 - [x] Listagem das metas e ultimas transações.
